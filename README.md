@@ -1,3 +1,6 @@
+##### 책 발간 이후 추가된 코드, 관련 논문 등의 추가 자료 확인:  
+https://github.com/stefan-jansen
+
 # Hands-On Machine Learning for Algorithmic Trading
 Hands-On Machine Learning for Algorithmic Trading, published by Packt
 
